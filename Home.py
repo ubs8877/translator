@@ -1,5 +1,8 @@
-import streamlit as st 
-from deep_translator import GoogleTranslator
+import streamlit as st
+import time
+import keyboard
+import os
+import psutil
 
 st.set_page_config(
     page_title="Translator",
