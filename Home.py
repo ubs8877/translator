@@ -11,6 +11,3 @@ st.set_page_config(
 st.snow()
 
 st.write("# Welcome to Translator ! ✍️")
-
-#st.sidebar.warning("Exit")
-
