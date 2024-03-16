@@ -1,6 +1,5 @@
 import streamlit as st 
 from deep_translator import GoogleTranslator
-import streamlit_shadcn_ui as ui
 
 
 st.set_page_config(
